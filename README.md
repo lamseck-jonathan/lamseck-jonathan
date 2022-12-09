@@ -1,6 +1,6 @@
 ### Hi 👋
 
-a Web Developper from Madagascar
+a Web Developper
 
 #### A Vue.js and Laravel specialist 🤩
 
