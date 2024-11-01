@@ -1,6 +1,6 @@
 ### Hi 👋
 
-a Web Developper
+an IT Engineer
 
 #### A Vue.js and Laravel specialist 🤩
 
