@@ -11,7 +11,7 @@ an IT Engineer
 - 📫 How to reach me: lamseck.jonathan@gmail.com 
 
 Want to take a look at my work ? copy the link below in your browser
-- lamseck-jonathan.netlify.app 💻
+- https://company-lamseck.com 💻
 
 <!--
 **lamseck-jonathan/lamseck-jonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
